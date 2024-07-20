@@ -11,6 +11,7 @@
 - Discord Server Designer 🎨
 
 <h3>my skills :</h3>
+
 - html
 - css (sass)
 - JavaScript

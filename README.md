@@ -10,7 +10,7 @@
 - Freelancher 🙍‍♂️
 - Discord Server Designer 🎨
 
-<bold>my skills :</bold>
+<h3>my skills :</h3>
 - html
 - css (sass)
 - JavaScript

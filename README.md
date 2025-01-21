@@ -1,24 +1,43 @@
-<h1> 👋 Hi, I’m sefoo333</h1>
 
-<h3> I have some experiences
-  <br>
- Of which
-</h3>
+<h2 align="center">
+        <samp>&gt; 👋 Hi, I’m
+                <b><a target="_blank" href="#">sefoo333</a></b>
+        </samp>
+</h2>
 
+<p align="center"> 
+  <samp>
+    「 I am <b>Front end Developer</b> and <b>Freelancer</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-- Front-end Developar 💻
-- Freelancher 🙍‍♂️
-- Discord Server Designer 🎨
+<p align="center">
+<!--  <a href="https://alsiam.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a> -->
+ <a href="https://linkedin.com/in/al-siam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sefoo"/>
+ </a>
+</p>
+<br />
 
-<h3>my skills :</h3>
+# About me
 
-- html
-- css (sass)
-- JavaScript
-- React.js/next.js
-- redux.js
-- typescript
-<!---
-sefoo333/sefoo333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Name is seifeldeen Ali, I Enthusiastic and detail-oriented Frontend Developer skilled in building user interfaces with React and Next gaining. hands-on experience in developing interactive, responsive web applications. in addition to, Strong understanding of HTML, CSS, and JavaScript, with a passion for creating smooth and efficient user experiences.
+- Front end Developer 💻
+- Freelancer 🙍‍♂️
+
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+

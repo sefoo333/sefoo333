@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Front end Development**
 
-- 👨‍💻 All of my projects are available at [https://sefoo.vercel.app](https://sefoo.vercel.app)
+- 👨‍💻 All of my projects are available at [My website](https://sefoo.vercel.app)
 
-- 💬 Ask me about **react,next**
+- 💬 Ask me about **react | next**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NBVqnJqg17iGfvADrg3ZZWb7CHvuQBkY/view?usp=sharing](https://drive.google.com/file/d/1NBVqnJqg17iGfvADrg3ZZWb7CHvuQBkY/view?usp=sharing)
+- 📄 Know about my experiences , [Show My CV](https://drive.google.com/file/d/1NBVqnJqg17iGfvADrg3ZZWb7CHvuQBkY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

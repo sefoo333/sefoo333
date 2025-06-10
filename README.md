@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react | next**
 
-- 📄 Know about my experiences , [Show My CV](https://drive.google.com/file/d/1NBVqnJqg17iGfvADrg3ZZWb7CHvuQBkY/view?usp=sharing)
+- 📄 Know about my experiences , [Show My CV](https://drive.google.com/file/d/1dWch_QClmxO1QNvsr742WoGm3LQYFLmZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

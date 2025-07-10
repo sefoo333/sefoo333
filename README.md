@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sefoo333.sefoo333&"  />
 <h1 align="center">Hi 👋, I'm Seifeldeen Ali</h1>
-<h3 align="center">A passionate frontend developer and freelancer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 
 
